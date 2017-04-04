@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Shandie
+ * @author Lokesh
  */
 @WebServlet(name = "ConfirmationServlet", urlPatterns = {"/ConfirmationServlet"})
 public class ConfirmationServlet extends HttpServlet {

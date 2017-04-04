@@ -1,7 +1,7 @@
 <%-- 
     Document   : confirmation
     Created on : 2017-apr-04, 17:41:09
-    Author     : Shandie
+    Author     : Lokesh
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

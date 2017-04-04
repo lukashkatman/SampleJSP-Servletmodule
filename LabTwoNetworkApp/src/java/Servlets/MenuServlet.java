@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Shandie
+ * @author Lokesh
  */
 @WebServlet(name = "MenuServlet", urlPatterns = {"/MenuServlet"})
 public class MenuServlet extends HttpServlet {
